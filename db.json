@@ -1,0 +1,15 @@
+{
+  "films": [
+    {
+      "id":"1",
+      "name":"Yildizlar Altinda",
+      "rate":"9.8/10"
+    },
+    {
+      "id":"2",
+      "name":"Yesil Yol",
+      "rate":"9.6/10"
+    }
+
+  ]
+}
